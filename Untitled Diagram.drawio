@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-22T06:11:42.655Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="HPmYT5xFD_nj7iWePpFE" version="24.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-22T06:14:16.130Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="sfi39CCBmAwBzebJ741v" version="24.6.1" type="github">
   <diagram name="Page-1" id="T6FG5JUvPaCqkUUWs33g">
-    <mxGraphModel dx="2555" dy="2103" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2901" dy="2290" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -15,10 +15,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="u7bU3b1OENKQPTIL70ho-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/KDE_Crystal_Diamond_2.5_Classical_Mod/128x128/mimetypes/html.png" parent="1" vertex="1">
-          <mxGeometry x="-150" y="200" width="70" height="70" as="geometry" />
+          <mxGeometry x="-370" y="200" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="u7bU3b1OENKQPTIL70ho-3" value="seed url&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Wikipedia:Contents/Categories&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-210" y="267" width="190" height="40" as="geometry" />
+          <mxGeometry x="-430" y="267" width="190" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AsswK9h2NQhdAezXCvUA-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -381,6 +381,12 @@
         </mxCell>
         <mxCell id="AsswK9h2NQhdAezXCvUA-161" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Crawling statergy&lt;/div&gt;Use BFS algorithm to find linked URL" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1110" y="906.51" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AsswK9h2NQhdAezXCvUA-162" value="" style="whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="-15" y="-10" width="640" height="395" as="geometry" />
+        </mxCell>
+        <mxCell id="AsswK9h2NQhdAezXCvUA-163" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;URL Frontier&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="251.2" y="-50" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
