@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-22T11:36:39.604Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="RSsHbCWzZ_g5rjbpkfg0" version="24.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-22T11:56:21.226Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="nY0WwBGeW5Bi0EbduYi-" version="24.6.1" type="github">
   <diagram name="Page-1" id="T6FG5JUvPaCqkUUWs33g">
     <mxGraphModel dx="2901" dy="2290" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -147,7 +147,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="AsswK9h2NQhdAezXCvUA-42" value="" style="whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="605" y="374.48" width="110" height="220" as="geometry" />
+          <mxGeometry x="602.2" y="377.45000000000005" width="110" height="220" as="geometry" />
         </mxCell>
         <mxCell id="AsswK9h2NQhdAezXCvUA-43" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=pod" vertex="1" parent="1">
           <mxGeometry x="381.20000000000005" y="450" width="51" height="48.96" as="geometry" />
@@ -157,8 +157,8 @@
             <mxPoint x="425" y="650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AsswK9h2NQhdAezXCvUA-44" value="Duplicate identifier&lt;div&gt;SIMHASH&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="365.0000000000001" y="506.51000000000005" width="120" height="40" as="geometry" />
+        <mxCell id="AsswK9h2NQhdAezXCvUA-44" value="Duplicate identifier" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="365.0000000000001" y="511.51000000000005" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AsswK9h2NQhdAezXCvUA-45" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=pod" vertex="1" parent="1">
           <mxGeometry x="410" y="468.5" width="44.8" height="43.01" as="geometry" />
@@ -402,6 +402,18 @@
             <mxPoint x="-350" y="330" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="AsswK9h2NQhdAezXCvUA-174" value="Only when success" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="715" y="488" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AsswK9h2NQhdAezXCvUA-175" value="" style="whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1082.2" y="143.4" width="277.8" height="206.6" as="geometry" />
+        </mxCell>
+        <mxCell id="AsswK9h2NQhdAezXCvUA-176" value="Optional as we are crawling just wikipedia" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="100" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AsswK9h2NQhdAezXCvUA-177" value="Avoid spider traps" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="856.71" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
